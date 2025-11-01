@@ -133,6 +133,7 @@
     <ClCompile Include="奇怪的九九乘法表打印程序（for循环学习）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="斐波那契数列生成器.c" />
     <ClCompile Include="秒化为小时、分钟、秒.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
